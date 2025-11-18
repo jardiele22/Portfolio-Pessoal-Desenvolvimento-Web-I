@@ -7,11 +7,9 @@
 - Habilidades
 - Formulário de contato
 
-Tecnologias
-
-HTML5
-
-CSS3 (Flexbox, seletores, cores, responsividade)
+## Tecnologias
+- HTML
+- CSS (Flexbox, seletores, cores, responsividade)
 
 Estrutura
 index.html
