@@ -11,7 +11,8 @@
 - HTML
 - CSS (Flexbox, seletores, cores)
 
-## Estrutura
-- index.html
-- /css/style.css
-- /img
+portfolio/
+│── index.html
+│── css/style.css
+│── img/
+
