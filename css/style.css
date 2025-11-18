@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f9f9f9;
+  color: #222;
+}
+
+header {
+  background-color: #3b3b98;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px 80px;
+}
+
+#sobre, #projetos, #contato {
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: space-between;
+  gap: 20px;
+}
+
+#sobre p, #projetos ul, #contato form {
+  flex: 1;
+}
+
+.foto {
+  flex: 0  250px;
+}
+
+.foto img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 3px solid #3b3b98;
+}
+
+table {
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #aaa;
+  padding: 8px;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  background-color: #3b3b98;
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+button:hover {
+  background-color: #202351;
+}
+
+footer {
+  background-color: #3b3b98;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
