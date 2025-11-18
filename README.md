@@ -12,7 +12,10 @@
 - CSS (Flexbox, seletores, cores)
 
 portfolio/
+
 │── index.html
+
 │── css/style.css
+
 │── img/
 
