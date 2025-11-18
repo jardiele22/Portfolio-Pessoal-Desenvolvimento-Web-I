@@ -14,10 +14,8 @@
 ## 📂 Estrutura
 
 portfolio/
-
 │── index.html
-
-│── css/style.css
-
+│── css/
+│     └── style.css
 │── img/
 
