@@ -4,10 +4,8 @@
 
 - Sobre mim
 - Projetos
-
 - Habilidades
-
-Formulário de contato
+- Formulário de contato
 
 Tecnologias
 
