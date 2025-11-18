@@ -3,10 +3,9 @@
 ## Conteúdo do site
 
 - Sobre mim
+- Projetos
 
-Projetos
-
-Habilidades
+- Habilidades
 
 Formulário de contato
 
