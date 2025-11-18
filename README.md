@@ -9,7 +9,7 @@
 
 ## Tecnologias
 - HTML
-- CSS (Flexbox, seletores, cores, responsividade)
+- CSS (Flexbox, seletores, cores)
 
 Estrutura
 index.html
