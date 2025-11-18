@@ -11,12 +11,13 @@
 - HTML
 - CSS (Flexbox, seletores, cores)
 
+## 📂 Estrutura
+
 portfolio/
 
 │── index.html
-│
 
 │── css/style.css
-│
+
 │── img/
 
