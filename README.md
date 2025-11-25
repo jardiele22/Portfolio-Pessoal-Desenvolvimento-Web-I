@@ -13,6 +13,7 @@
 
 ## 📂 Estrutura
 
+```
 /portfolio/
 ├── index.html
 ├── css/
@@ -22,5 +23,7 @@
 ├── docs
   └── doc.pdf
 └── README.md
+
+```
 
 
