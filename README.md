@@ -13,13 +13,14 @@
 
 ## 📂 Estrutura
 
-portfolio/
+/portfolio/
+├── index.html
+├── css/
+│ └── style.css
+├── img/
+│ └── Imagens Utilizadas
+├── docs
+  └── doc.pdf
+└── README.md
 
-│── index.html
-
-│── css/
-│  
-└── style.css
-
-│── img/
 
