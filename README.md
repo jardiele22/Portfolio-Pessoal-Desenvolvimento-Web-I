@@ -1,5 +1,6 @@
 # Portfolio Pessoal-Desenvolvimento Web I
-### Este é o meu projeto de portfólio feito para a disciplina de Desenvolvimento Web I. A página foi criada usando HTML e CSS.
+### Este é o meu projeto de portfólio feito para a disciplina de Desenvolvimento Web I. A página foi criada usando HTML e CSS,aplicando conceitos como semântica, listas, tabelas, formulários, imagens, posicionamento e Flexbox.
+
 ## Conteúdo do site
 
 - Sobre mim
